@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Charquicán</title>
+    <meta charset ="UTF-8">
+  </head>
+  <body>
+    <h1>Charquicán</h1>
+    <p>¿Como hacer charquicán?</p>
+          <img src="https://www.gourmet.cl/_next/image/?url=https%3A%2F%2Fgourmet.iprospect.cl%2Fwp-content%2Fuploads%2F2016%2F09%2FCharquican-1.jpg&w=1920&q=75" alt="Charquicán">
+    <h2>Ingredientes</h2>
+    <ul>
+      <li>1 kilo de asiento o carne molida</li>
+      <li>2 ½ cdas de aceite</li>
+      <li>1 cebolla picada fina</li>
+      <li>2 dientes de ajo picados fino</li>
+      <li>6 papas en cubos de 1,5 cm</li>
+      <li>400g de zapallo camote en cubos de 1,5 cm</li>
+      <li>1,5 cdtas de Ají de Color Gourmet</li>
+      <li>½ cdta de Comino Molido Gourmet</li>
+      <li>2,5 cdtas de Orégano Entero Gourmet</li>
+      <li>600ml de agua</li>
+      <li>1 sobre de Caldo en Polvo de Carne Gourmet</li>
+      <li>2 tazas de choclo</li>
+      <li>2 tazas de porotos verdes cortados a lo largo</li>
+    </ul>
+    <h2>Instrucciones</h2>
+    <ol>
+      <li>Cortar la carne en cubos de 1 cm (si se usa carne molida, saltar este paso)</li>
+      <li>En una olla grande, calentar el aceite a fuego medio. Agregar la carne y cocinar por 5 minutos. Agregar la cebolla y el ajo y cocinar hasta que la cebolla esté blanda y transparente.</li>
+      <li>Agregar las papas y zapallo, revolver bien. Incorporar el Ají de Color, Comino Molido y Orégano Entero, revolver hasta integrar. Agregar el agua y el Caldo en Polvo de Carne. Dejar hervir y luego reducir el fuego y cocinar por 25 minutos o hasta que las verduras estén blandas.</li>
+      <li>Por último, agregar el choclo y los porotos verdes, cocinar por 5 minutos o hasta que estén blandos.</li>
+      <li>Con la ayuda de una cuchara de palo, aplastar levemente las papas y zapallo y servir.</li>
+    </ol>
+  </body>
+</html>
